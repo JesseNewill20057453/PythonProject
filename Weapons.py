@@ -1,4 +1,3 @@
-
 import random
 
 weapons = ["Lead Pipe", "Knife", "Pistol", "Rope", "Candlestick", "Wrench"]
