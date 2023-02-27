@@ -15,7 +15,7 @@ keyPlacement = random.choice(roomsWithoutBasement)
 roomClue = "bloodstained"
 
 #amount of moves
-move = 15
+moves = 15
 
 # clues
 clue = ""
