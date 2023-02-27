@@ -1,11 +1,10 @@
-# Map starts as empty
-hall = "Hall []"
-study = "Study []"
-lounge = "Lounge []"
-billiardRoom = "Billiard Room []"
-library = "Library []"
-conservatory = "Conservatory []"
-ballroom = "Ballroom []"
-kitchen = "Kitchen []"
-diningRoom = "Dining Room []"
-basement = "Basement []"
+hallVisitedStatus = False
+studyVisitedStatus = False
+loungeVisitedStatus = False
+billiardRoomVisitedStatus = False
+libraryVisitedStatus = False
+conservatoryVisitedStatus = False
+ballroomVisitedStatus = False
+kitchenVisitedStatus = False
+diningRoomVisitedStatus = False
+basementVisitedStatus = False
